@@ -1,5 +1,3 @@
-## Recent work
-
 ### Public speaking
 
  - [How GitHub builds and deploy software](https://speakerdeck.com/yuichielectric/how-github-builds-and-deploy-software) at [Developers Summi 2020](https://event.shoeisha.jp/devsumi/20200213/session/2340/)
