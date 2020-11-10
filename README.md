@@ -8,5 +8,6 @@
 
 ### :green_book: Translation
 
- - Translated Martin Fowler's [Patterns for Managing Source Code Branches](https://martinfowler.com/articles/branching-patterns.html) into Japanese [here](https://bliki-ja.github.io/PatternsForManagingSourceCodeBranches/)
- - Translated [Open Source Guides](https://opensource.guide/) into Japanese [here](https://opensource.guide/ja/)
+ - Martin Fowler's [Eradicating Non-Determinism in Tests](https://martinfowler.com/articles/nonDeterminism.html) in Japanese [here](https://bliki-ja.github.io/eradicating-non-determinism-in-tests/)
+ - Martin Fowler's [Patterns for Managing Source Code Branches](https://martinfowler.com/articles/branching-patterns.html) in Japanese [here](https://bliki-ja.github.io/PatternsForManagingSourceCodeBranches/)
+ - [Open Source Guides](https://opensource.guide/) in Japanese [here](https://opensource.guide/ja/)
