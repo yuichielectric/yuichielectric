@@ -13,4 +13,4 @@
  - Martin Fowler's [Patterns for Managing Source Code Branches](https://martinfowler.com/articles/branching-patterns.html) in Japanese [here](https://bliki-ja.github.io/PatternsForManagingSourceCodeBranches/)
  - [Open Source Guides](https://opensource.guide/) in Japanese [here](https://opensource.guide/ja/)
 
-https://github-readme-stats.vercel.app/api?username=yuichielectric&show_icons=true&count_private=true&line_height=40
+![yuichielectric GitHub status](https://github-readme-stats.vercel.app/api?username=yuichielectric&show_icons=true&count_private=true&line_height=40)
