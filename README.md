@@ -9,6 +9,7 @@
 
 ### :green_book: Translation
 
+ - [オブジェクト設計スタイルガイド](https://www.oreilly.co.jp/books/9784814400331/): [Object Design Style Guide](https://www.manning.com/books/object-design-style-guide) translation in Japanese.
  - [システム運用アンチパターン](https://www.oreilly.co.jp/books/9784873119847/): [Operations Anti-Patterns, DevOps Solutions](https://www.manning.com/books/operations-anti-patterns-devops-solutions) translation in Japanese.
  - Martin Fowler's [Eradicating Non-Determinism in Tests](https://martinfowler.com/articles/nonDeterminism.html) in Japanese [here](https://bliki-ja.github.io/eradicating-non-determinism-in-tests/)
  - Martin Fowler's [Patterns for Managing Source Code Branches](https://martinfowler.com/articles/branching-patterns.html) in Japanese [here](https://bliki-ja.github.io/PatternsForManagingSourceCodeBranches/)
